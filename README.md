@@ -3,9 +3,9 @@ Smooth weather is a weather app with a great visual design, it supports searchin
 
 ## Preview
 
-## 🌐 **[Live Preview](##/)**
+## 🌐 **[Live Preview](http://weather-app.my-style.in/)**
 
-![](./preview.png)
+![http://weather-app.my-style.in/](./preview.png)
 
 ## Installation
 
