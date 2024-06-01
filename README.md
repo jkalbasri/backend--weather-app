@@ -5,7 +5,14 @@ Smooth weather is a weather app with a great visual design, it supports searchin
 
 ## 🌐 **[Live Preview](http://weather-app.my-style.in/)**
 
-!(http://weather-app.my-style.in/)(./preview.png)
+!(http://weather-app.my-style.in/)(./)
+
+<a href="http://weather-app.my-style.in/)" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./preview.png">
+    <img alt="READMEs Screenshot" src="./preview.png>
+  </picture>
+</a>
 
 ## Installation
 
