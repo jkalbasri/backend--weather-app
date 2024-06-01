@@ -22,7 +22,7 @@ $ npm install
 
 Get Your OpenWeatherMap API KEY here: https://home.openweathermap.org/api_keys
 
-⚠️ **Important Instructions** ⚠️:
+⚠️ **Important Instructions** ⚠️
 
 - Create `.env` file in root of the project.
 - Copy the variable from [sample.env](https://github.com/jkalbasri/backend--weather-app/blob/main/sample.env) and paste it into `.env`
