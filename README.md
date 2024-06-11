@@ -1,8 +1,6 @@
 # Backend smooth weather app
 Smooth weather is a weather app with a great visual design, it supports searching locations by city name.
 
-## Preview
-
 ## 🌐 <a href="https://jkalbasri.github.io/weather-app/" target="blank" align="center"> Live Preview </a>
 
 
