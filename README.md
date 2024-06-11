@@ -3,9 +3,10 @@ Smooth weather is a weather app with a great visual design, it supports searchin
 
 ## Preview
 
-## 🌐 **[Live Preview](http://weather-app.my-style.in)**
+## 🌐 ** <a href="https://jkalbasri.github.io/weather-app/" target="blank" align="center"> Live Preview </a>
 
-<a href="http://weather-app.my-style.in" align="center">
+
+<a href="https://jkalbasri.github.io/weather-app/" target="blank" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./preview.png">
     <img alt="READMEs Screenshot" src="./preview.png>
